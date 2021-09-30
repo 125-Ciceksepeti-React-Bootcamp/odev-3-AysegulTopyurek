@@ -2,7 +2,7 @@
 
 Bu repoda gördüğünüz proje aslında uzun zamandır aklımda olan kişisel blog yapımın başlangıcıdır. Çok özenerek ve itina ile hazırladım. Umarım beğenirsiniz.
 
-[LIVE](https://aysegultopyurek.github.io/125-Ciceksepeti-React-Bootcamp-odev-1/)
+[LIVE](https://youthful-wozniak-490873.netlify.app/)
 
 ## Installation
 
