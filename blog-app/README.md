@@ -8,7 +8,7 @@ Bu repoda gördüğünüz proje aslında uzun zamandır aklımda olan kişisel b
 
 Öncelikle projeyi clonelayalım.
 
-`git clone https://github.com/AysegulTopyurek/125-Ciceksepeti-React-Bootcamp-odev-3.git`
+`git clone https://github.com/125-Ciceksepeti-React-Bootcamp/odev-3-AysegulTopyurek.git`
 
 ## Usage
 
@@ -17,7 +17,7 @@ Projeyi klonladıktan sonra Code editörünüzde açınız.
 Linux için:
 
 ```
-cd 125-Ciceksepeti-React-Bootcamp-odev-3
+cd odev-3-AysegulTopyurek
 code .
 ```
 
